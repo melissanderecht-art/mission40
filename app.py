@@ -32,6 +32,8 @@ NOM_LIEU = "Gîtes Le Val d'Or · Saint-Prix (Ardèche)"
 ALBUM_PHOTOS = ""            # ✏️ lien de l'album partagé (Google Photos, iCloud…)
 CODE_PARCOURS = "ARDECHE40"  # débloque le parcours sport
 CODE_DEFIS = "MOLKKYCHAMP"   # débloque Jouer + Classement
+AFFICHER_DIAGNOSTIC = True
+
 
 st.set_page_config(page_title="Mission 40 🦄", page_icon="🦄", layout="centered",
                    initial_sidebar_state="collapsed")
